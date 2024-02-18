@@ -4,6 +4,7 @@ namespace Sofa\Eloquence;
 
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Support\Str;
+use Carbon\Carbon;
 use Sofa\Eloquence\Contracts\Relations\Joiner;
 use Sofa\Eloquence\Searchable\Column;
 use Illuminate\Database\Query\Expression;
